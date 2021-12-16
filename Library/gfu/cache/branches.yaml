@@ -13,13 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-12-10T23:31:33.676+08:00
-  initializedAtString: 2021-12-10T23:14:53.412+08:00
+  lastUpdatedAtString: 2021-12-16T12:33:57.911+08:00
+  initializedAtString: 2021-12-16T12:32:35.519+08:00
   localBranches:
   - name: main
     tracking: origin/main
-  - name: Master
-    tracking: origin/Master
   remoteBranches:
   - name: origin/main
     tracking: '[None]'
@@ -36,18 +34,12 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - main
-    - Master
     values:
     - name: main
       remote:
         name: origin
         url: https://github.com/NyanLinHtut20318/ITD-DDA-ASSG2.git
       trackingBranch: main
-    - name: Master
-      remote:
-        name: origin
-        url: https://github.com/NyanLinHtut20318/ITD-DDA-ASSG2.git
-      trackingBranch: Master
   remoteConfigBranches:
     keys:
     - origin
