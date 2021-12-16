@@ -13,42 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-12-16T12:37:08.033+08:00
+  lastUpdatedAtString: 2021-12-16T12:37:16.413+08:00
   initializedAtString: 2021-12-16T12:32:36.016+08:00
   entries:
-  - path: Library\ArtifactDB
-    fullPath: C:\sch stuff\DDA\ITD-DDA-ASSG2\Library\ArtifactDB
-    projectPath: Library\ArtifactDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
-    fullPath: C:\sch stuff\DDA\ITD-DDA-ASSG2\Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
-    projectPath: Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
-    fullPath: C:\sch stuff\DDA\ITD-DDA-ASSG2\Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
-    projectPath: Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\EditorInstance.json
-    fullPath: C:\sch stuff\DDA\ITD-DDA-ASSG2\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\sch stuff\DDA\ITD-DDA-ASSG2\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\sch stuff\DDA\ITD-DDA-ASSG2\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -67,24 +37,6 @@ MonoBehaviour:
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\sch stuff\DDA\ITD-DDA-ASSG2\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\sch stuff\DDA\ITD-DDA-ASSG2\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\SceneVisibilityState.asset
-    fullPath: C:\sch stuff\DDA\ITD-DDA-ASSG2\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\sch stuff\DDA\ITD-DDA-ASSG2\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
